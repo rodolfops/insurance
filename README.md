@@ -1,5 +1,3 @@
-# applicant test
-
 ## Task Description
 
 Imagine a modular insurance product. People can choose from 4 modules. Each module has a different
