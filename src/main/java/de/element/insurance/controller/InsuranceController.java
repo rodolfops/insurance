@@ -30,7 +30,7 @@ import de.element.insurance.service.insurance.InsuranceService;
 public class InsuranceController {
 
 	private final InsuranceService insuranceService;
-    private ModelMapper mapper;
+    private final ModelMapper mapper;
 	
 	@Autowired
 	public InsuranceController(final InsuranceService insuranceService, ModelMapper mapper) {
